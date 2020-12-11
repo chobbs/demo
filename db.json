@@ -1,25 +1,25 @@
 {
   "node1": {
-    "tags": "local,server",
+    "tags": "local,server,intel",
     "osFamily": "unix",
-    "username": "greg",
+    "username": "craig",
     "osVersion": "10.10.3",
     "osArch": "x86_64",
-    "description": "Rundeck server node",
+    "description": "Demo server node",
     "hostname": "madmartigan.local",
-    "nodename": "madmartigan.local",
+    "nodename": "test1.local",
     "osName": "Mac OS X"
   },
   "node2": {
-    "tags": "alphabet, soup",
+    "tags": "alphabet,soup,intel",
     "osFamily": "unix",
     "ssh-key-storage-path": "keys/testkey1.pem",
-    "username": "vagrant",
+    "username": "craig",
     "osVersion": "10.10.3",
     "osArch": "x86_64",
-    "description": "Rundeck server node",
+    "description": "Demo server node",
     "hostname": "192.168.33.12",
-    "nodename": "test",
+    "nodename": "test2.local",
     "osName": "Mac OS X"
   }
 }
