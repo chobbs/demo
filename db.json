@@ -1,5 +1,5 @@
 {
-  "madmartigan.local": {
+  "node1": {
     "tags": "local,server",
     "osFamily": "unix",
     "username": "greg",
@@ -10,7 +10,7 @@
     "nodename": "madmartigan.local",
     "osName": "Mac OS X"
   },
-  "test": {
+  "node2": {
     "tags": "alphabet, soup",
     "osFamily": "unix",
     "ssh-key-storage-path": "keys/testkey1.pem",
