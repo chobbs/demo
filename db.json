@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "madmartigan.local": {
+    "tags": "local,server",
+    "osFamily": "unix",
+    "username": "greg",
+    "osVersion": "10.10.3",
+    "osArch": "x86_64",
+    "description": "Rundeck server node",
+    "hostname": "madmartigan.local",
+    "nodename": "madmartigan.local",
+    "osName": "Mac OS X"
+  },
+  "test": {
+    "tags": "alphabet, soup",
+    "osFamily": "unix",
+    "ssh-key-storage-path": "keys/testkey1.pem",
+    "username": "vagrant",
+    "osVersion": "10.10.3",
+    "osArch": "x86_64",
+    "description": "Rundeck server node",
+    "hostname": "192.168.33.12",
+    "nodename": "test",
+    "osName": "Mac OS X"
   }
 }
