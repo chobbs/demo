@@ -1,25 +1,5 @@
-{
-  "node1": {
-    "tags": "local,server,intel",
-    "osFamily": "unix",
-    "username": "craig",
-    "osVersion": "10.10.3",
-    "osArch": "x86_64",
-    "description": "Demo server node",
-    "hostname": "madmartigan.local",
-    "nodename": "test1.local",
-    "osName": "Mac OS X"
-  },
-  "node2": {
-    "tags": "alphabet,soup,intel",
-    "osFamily": "unix",
-    "ssh-key-storage-path": "keys/testkey1.pem",
-    "username": "craig",
-    "osVersion": "10.10.3",
-    "osArch": "x86_64",
-    "description": "Demo server node",
-    "hostname": "192.168.33.12",
-    "nodename": "test2.local",
-    "osName": "Mac OS X"
-  }
-}
+[
+  {"name":"Craig Hobbs", "value":"chobbs@pagerduty.com"},
+  {"name":"Eric Abbruzzese", "value":"eabbruzzese@rundeck.com"},
+  {"name":"Patrick Kennard", "value":"pkennard@pagerduty.com"}
+]
