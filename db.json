@@ -21,5 +21,10 @@
     "hostname": "192.168.33.12",
     "nodename": "test2.local",
     "osName": "Mac OS X"
+  },
+  "node3": {
+    "Craig Hobbs.": "chobbs@pagerduty.com",
+    "Eric Abbruzzese": "eabbruzzese@rundeck.com",
+    "Patrick Kennard": "pkennard@pagerduty.com"
   }
 }
